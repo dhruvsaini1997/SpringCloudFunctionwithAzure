@@ -1,7 +1,7 @@
-package com.dhruvsaini.SpringCloudFunctionAzure.service;
+package com.dhruvsaini.springcloudfunctionazure.service;
 
-import com.dhruvsaini.SpringCloudFunctionAzure.model.ResponseValueObject;
-import com.dhruvsaini.SpringCloudFunctionAzure.model.User;
+import com.dhruvsaini.springcloudfunctionazure.model.ResponseValueObject;
+import com.dhruvsaini.springcloudfunctionazure.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

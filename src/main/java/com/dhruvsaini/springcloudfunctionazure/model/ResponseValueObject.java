@@ -1,6 +1,4 @@
-package com.dhruvsaini.SpringCloudFunctionAzure.model;
-
-import lombok.*;
+package com.dhruvsaini.springcloudfunctionazure.model;
 
 
 public class ResponseValueObject {

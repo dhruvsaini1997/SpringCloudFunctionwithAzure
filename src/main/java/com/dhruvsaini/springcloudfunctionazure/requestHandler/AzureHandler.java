@@ -1,7 +1,7 @@
-package com.dhruvsaini.SpringCloudFunctionAzure.requestHandler;
+package com.dhruvsaini.springcloudfunctionazure.requestHandler;
 
-import com.dhruvsaini.SpringCloudFunctionAzure.model.ResponseValueObject;
-import com.dhruvsaini.SpringCloudFunctionAzure.model.User;
+import com.dhruvsaini.springcloudfunctionazure.model.ResponseValueObject;
+import com.dhruvsaini.springcloudfunctionazure.model.User;
 import com.microsoft.azure.functions.ExecutionContext;
 import com.microsoft.azure.functions.HttpMethod;
 import com.microsoft.azure.functions.HttpRequestMessage;

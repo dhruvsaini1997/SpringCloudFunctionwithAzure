@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.3.0.RELEASE</version>
+		<version>2.1.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dhruvsaini</groupId>
@@ -23,7 +23,7 @@
 		<functionAppRegion>japaneast</functionAppRegion>
 		<functionResourceGroup>s1pfunction</functionResourceGroup>
 		<stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
-		<start-class>com.example.hellofunction.SpringCloudFunctionDemoApplication</start-class>
+		<start-class>com.dhruvsaini.springcloudfunctionazure.SpringCloudFunctionAzureApplication</start-class>
 		<wrapper.version>1.0.15.RELEASE</wrapper.version>
 	</properties>
 
